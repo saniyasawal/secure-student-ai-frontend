@@ -38,6 +38,8 @@ The frontend communicates with a FastAPI backend through server-side API routes.
 
 The project uses synthetic academic records and is intended for educational demonstration. It does not use real student information.
 
+Vercel Link : https://secure-student-ai-frontend.vercel.app
+
 ## Objectives
 
 The primary objectives are to:
